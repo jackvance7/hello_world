@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a42ac15-235e-4135-a039-c4faee516aae" name="Default Changelist" comment="" />
+    <list default="true" id="1a42ac15-235e-4135-a039-c4faee516aae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/hello_world/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/hello_world/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/polls/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,8 +51,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568074875738</updated>
-      <workItem from="1568074877679" duration="1642000" />
+      <workItem from="1568074877679" duration="3650000" />
     </task>
+    <task id="LOCAL-00001" summary="Hello world text added">
+      <created>1568080071018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568080071018</updated>
+    </task>
+    <task id="LOCAL-00002" summary="urls.py">
+      <created>1568080163743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568080163743</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,5 +83,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello world text added" />
+    <MESSAGE value="urls.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="urls.py" />
   </component>
 </project>
